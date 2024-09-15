@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://youtu.be/E1a1gc9TDE8?si=IU_bHKFGIdrUxQdT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://youtu.be/E1a1gc9TDE8?si=IU_bHKFGIdrUxQdT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
