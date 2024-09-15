@@ -16,3 +16,9 @@
   min-width: 320px;
   min-height: 100vh;
 }
+.title{
+  font-size: 3rem;
+  color: black ;
+  text-shadow: 5px 5px lavender;
+  margin-bottom: 50px;
+}
