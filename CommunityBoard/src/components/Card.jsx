@@ -6,6 +6,7 @@ const Card = (props) => {
             <img src={props.img} alt={props.title} />
             <h2 className='restName'>{props.title}</h2>
             <p>{props.description}</p>
+            <a></a>
         </div>
     );
 }

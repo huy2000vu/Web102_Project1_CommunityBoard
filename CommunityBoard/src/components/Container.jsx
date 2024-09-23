@@ -3,11 +3,13 @@ import Card from "./Card"
 const Container = () => {
     return (
         <div className="Container">
+            
             <Card 
             img="https://media-cdn.tripadvisor.com/media/photo-s/18/9b/89/12/phin-smith-coffee.jpg" 
             title="Phin Smith Coffee" 
             description="A cozy coffee shop with a warm ambiance, perfect for a relaxing evening." 
             />
+            
 
             <Card
             img="https://static.wixstatic.com/media/c2d9c5_6d2723ebfa8a47249bfe50c3e8209c2e~mv2.jpg/v1/fill/w_824,h_740,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/IMG_9871.jpg"
